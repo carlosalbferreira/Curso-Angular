@@ -1,0 +1,8 @@
+Variáveis JS.
+
+As variaveis sao uma forma de salvar dados que possam ser acessados e/ou manipulados posteriormente
+Independente desse tipo de dados, strings, Numbers, booleans, Arrays, Objects e Functions.
+
+Todas as variaveis ficam armazenadas dentro da memória do nosso computator.
+
+E não podemos utilizar os nomes já existentes nop javascript.
