@@ -8,9 +8,10 @@
  * 
  * Link:  https://www.geeksforgeeks.org/strict-mode-javascript/
  */
-'use strict'
+'use strict';
 
 (() => {
     teste = "Teste";
 })();
+
 console.log(teste);
