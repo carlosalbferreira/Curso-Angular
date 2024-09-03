@@ -10,6 +10,4 @@ const Tenis = {
 
 //hasOwnPropety | propetyName in tenis
 
-const {link: {a, b: {c}} } = Tenis
-
-console.log(a , c);
+console.log(Tenis.hasOwnProperty("estoque"));
