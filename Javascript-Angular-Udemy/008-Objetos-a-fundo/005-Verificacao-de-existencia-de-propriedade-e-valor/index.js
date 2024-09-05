@@ -10,4 +10,13 @@ const Tenis = {
 
 //hasOwnPropety | propetyName in tenis
 
-console.log(Tenis.hasOwnProperty("estoque"));
+
+
+// if (Tenis.hasOwnProperty("estoque")){
+//     console.log("existe");
+// }else {
+//     console.log("não existe")
+// }
+
+// console.log(Tenis.hasOwnProperty("estoque"));
+console.log("carlos" in Tenis);
